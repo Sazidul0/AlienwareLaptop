@@ -12,6 +12,8 @@ const Home = () => {
 
     reviews.pop();
     reviews.pop();
+    reviews.pop();
+    reviews.pop();
 
     console.log(reviews)
 

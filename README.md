@@ -1,6 +1,6 @@
 # Alienware Laptop(Assignment-09)
 
-Live site link [Netlify Live Site](https://github.com/facebook/create-react-app).
+Live site link [Netlify Live Site](https://assignment-000-009.netlify.app/).
 
 ## About This Project
 
