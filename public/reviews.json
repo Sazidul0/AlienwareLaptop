@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0001",
+        "name": "Matthew Buzzi",
+        "ratings": 4,
+        "review": "This is a very fast laptop"
+    },
+    {
+        "id": "0002",
+        "name": "Tom Brant",
+        "ratings": 4.5,
+        "review": "For past few days I am using this laptop and this is great"
+    },
+    {
+        "id": "0003",
+        "name": "Nathaniel Mott",
+        "ratings": 5,
+        "review": "The best gaming laptop I ever had!"
+    },
+    {
+        "id": "0004",
+        "name": "Karl Klockars",
+        "ratings": 4,
+        "review": "I replace my pc by this laptop"
+    },
+    {
+        "id": "0005",
+        "name": "Zackery Cuevas",
+        "ratings": 5,
+        "review": "Gaming into this feels very good"
+    },
+    {
+        "id": "0006",
+        "name": "Charles Jefferies",
+        "ratings": 4,
+        "review": "A first-class gaming experience comes naturally from this."
+    },
+    {
+        "id": "0007",
+        "name": "Eric Grevstad",
+        "ratings": 4.5,
+        "review": "Best Gaming laptop series Alienware"
+    }
+]

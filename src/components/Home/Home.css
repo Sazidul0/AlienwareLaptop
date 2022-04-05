@@ -1,0 +1,90 @@
+.alienware {
+    display: flex;
+    margin-top: 30px;
+}
+
+.alienware-all-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    width: 65%;
+}
+
+.alienware-text {
+    margin-bottom: 5px;
+}
+
+.alienware-text h1 {
+    font-size: 70px;
+    margin: 0;
+}
+
+.alienware-text h2 {
+    font-size: 30px;
+    color: blue;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.alienware-text button {
+    padding: 15px 30px;
+    background-color: rgb(227, 198, 255);
+    color: blue;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.alienware-image img {
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+
+/* Customer Reviews */
+.customer-review-title {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.customer-reviews {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-left: 80px;
+}
+
+.review {
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 10px;
+    width: 360px;
+    height: 300px;
+    margin-bottom: 50px;
+}
+
+.all-reviews-button {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.all-reviews-button a {
+    color: white;
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 5px;
+
+    padding: 8px 50px;
+    border: none;
+    font-weight: 600;
+    margin-bottom: 100px;
+    margin-top: 10px;
+}
