@@ -1,0 +1,14 @@
+h1 {
+    font-size: 60px;
+    margin-left: 100px;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.not-found {
+    display: flex;
+    justify-content: center;
+}
