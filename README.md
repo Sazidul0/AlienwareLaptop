@@ -4,7 +4,7 @@ Live site link [Netlify Live Site](https://github.com/facebook/create-react-app)
 
 ## About This Project
 
- Markup : *This project is about Alienware gaming laptop.
+Markup : *This project is about Alienware gaming laptop.
 
 *It is created by React Js.
 

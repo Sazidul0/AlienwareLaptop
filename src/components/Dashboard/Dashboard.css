@@ -1,0 +1,14 @@
+.dash-board {
+    display: flex;
+    justify-content: space-around;
+}
+
+.month-wise-sell {
+    display: flex;
+    justify-content: center;
+}
+
+.investment-vs-revinue {
+    display: flex;
+    justify-content: center;
+}
