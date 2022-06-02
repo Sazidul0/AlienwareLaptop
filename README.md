@@ -1,4 +1,4 @@
-# Alienware Laptop(Assignment-09)
+# Alienware Laptop
 
 Live site link [Netlify Live Site](https://assignment-000-009.netlify.app/).
 

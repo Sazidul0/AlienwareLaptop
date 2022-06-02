@@ -10,12 +10,14 @@ const Home = () => {
 
     const [reviews, setReviews] = useReviews();
 
-    reviews.pop();
-    reviews.pop();
-    reviews.pop();
-    reviews.pop();
+    const reviewSize = reviews.length;
+    const rest = reviewSize - 3;
+    for (let i = 0; i < rest; i++) {
+        reviews.pop();
+    }
 
-    console.log(reviews)
+
+    // console.log(reviews.length)
 
     return (
         <div>

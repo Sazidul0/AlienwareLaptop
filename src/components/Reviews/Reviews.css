@@ -8,3 +8,24 @@
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+
+
+
+
+/* Responsive */
+@media only screen and (max-width: 576px) {
+
+    .review-container,
+    .customer-reviews {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 992px) {
+
+    .review-container,
+    .customer-reviews {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

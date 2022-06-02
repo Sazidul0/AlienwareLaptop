@@ -88,3 +88,13 @@
     margin-bottom: 100px;
     margin-top: 10px;
 }
+
+
+
+/* Responsive */
+@media only screen and (max-width: 576px) {
+    .alienware {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
