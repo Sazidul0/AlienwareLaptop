@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import './Header.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import logo from '../../images/alienwareLogo.png'
 
 const Header = () => {
     return (
@@ -15,7 +16,7 @@ const Header = () => {
                 <Navbar className='' collapseOnSelect expand="lg" bg="dark" variant="dark">
                     <Container>
                         <Navbar.Brand href="#home">
-                            {/* <img className='w-25' src={logo} alt="" /> */}
+                            <img className='logo-img' src={logo} alt="" />
                             <span className=''>Alienware</span>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
